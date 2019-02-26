@@ -2,7 +2,7 @@ stu id: 2016302580318 杜致
 
 
 
-- ![](https://github.com/ChenBuxun/CNDC-schoolwork/blob/master/img0.JPG)
+- ![](/img0.JPG)
 
 - ![](D:\Documents\CNDC-schoolwork\img1.JPG)
 
