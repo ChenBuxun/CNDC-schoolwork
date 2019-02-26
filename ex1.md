@@ -4,11 +4,11 @@ stu id: 2016302580318 杜致
 
 - ![Image text](img0.JPG)
 
-- ![](D:\Documents\CNDC-schoolwork\img1.JPG)
+- ![Image text](img1.JPG)
 
 
 
-- p1![](D:\Documents\CNDC-schoolwork\img2.JPG)
+- p1![Image text](img2.JPG)
 
 - p2
 
