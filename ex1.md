@@ -2,7 +2,7 @@ stu id: 2016302580318 杜致
 
 
 
-- ![Image text](img0.JPG)
+- ![Image text](/img/img0.JPG)
 
 - ![Image text](img1.JPG)
 
