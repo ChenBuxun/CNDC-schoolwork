@@ -1,7 +1,8 @@
 Week 3 assignment
 
 
-
+- ![Image text](/img/2-0.JPG)
+- ![Image text](/img/2-1.JPG)
 I bet nothing wrong with my password...?
 
 
