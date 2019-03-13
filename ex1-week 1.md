@@ -2,7 +2,7 @@ stu id: 2016302580318 杜致
 
 
 
-- ![](\img\img0.JPG)
+- ![](/img/img0.JPG)
 
 - ![](D:\Documents\CNDC-schoolwork\img1.JPG)
 
