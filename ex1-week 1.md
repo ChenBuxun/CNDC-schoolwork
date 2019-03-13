@@ -31,3 +31,10 @@ stu id: 2016302580318 杜致
   c)
 
   f to c(beijing/shanghai): 4 same routes sending from France and then diverge before reaching(img 9/10)
+  
+  - ![](/img/img4.JPG)
+  - ![](/img/img6.JPG)
+  - ![](/img/img7.JPG)
+  - ![](/img/img8.JPG)
+  - ![](/img/img9.JPG)
+  - ![](/img/img10.JPG)
