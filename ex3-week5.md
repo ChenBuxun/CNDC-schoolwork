@@ -1,3 +1,5 @@
+python files were in the root directory with prefix *ex3*
+
 **P1**
 
 a) source:1026;des:23
